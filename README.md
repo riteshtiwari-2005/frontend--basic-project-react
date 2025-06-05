@@ -25,7 +25,4 @@ This is a simple frontend-only authentication project built using **React**, **R
 - React Icons
 - React Toastify
 
----
-
-## 📁 Folder Structure
 
